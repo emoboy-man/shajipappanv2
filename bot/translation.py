@@ -28,11 +28,11 @@ Join Our Main Channel 👇🏻..
     
     ABOUT_TEXT = """<b>➥ Name</b> : <code> Auto Filter Bot</code>
     
-<b>➥ Creator</b> : <b><i><a href="https://t.me/vaathi_comin_g">vaathi_comin_g</a></i></b>
+<b>➥ Creator 🎩</b> : <b><i><a href="https://t.me/vaathi_comin_g">vaathi_comin_g</a></i></b>
 
 <b>➥ Language</b> : <code>Python3</code>
 
-<b>➥ YouTube</b> : <i><a href="https://youtube.com/c/LOStWorldBGM">subscribe YouTube channel </a></i>
+<b>➥ YouTube🛡️</b> : <i><a href="https://youtube.com/c/LOStWorldBGM">subscribe YouTube channel </a></i>
 
-<b>➥ Source Code</b> : <i><a href="https://t.me/vaathi_comin_g">Click Me</a></i>
+<b>➥ MASTER 😎</b> : <i><a href="https://t.me/vaathi_comin_g">Click Me</a></i>
 """
