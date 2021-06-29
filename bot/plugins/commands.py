@@ -38,7 +38,7 @@ async def start(bot, update):
                         [
                             InlineKeyboardButton
                                 (
-                                    'Developers', url="https://t.me/MallusHubb"
+                                    '❤️ OUR CHANNEL 📺', url="https://t.me/MallusHubb"
                                 )
                         ]
                     ]
@@ -57,7 +57,7 @@ async def start(bot, update):
                         [
                             InlineKeyboardButton
                                 (
-                                    'Developers', url="https://t.me/MallusHubb"
+                                    '❤️ OUR CHANNEL 📺', url="https://t.me/MallusHubb"
                                 )
                         ]
                     ]
@@ -76,7 +76,7 @@ async def start(bot, update):
                         [
                             InlineKeyboardButton
                                 (
-                                    'Developers', url="https://t.me/MallusHubb"
+                                    '❤️ OUR CHANNEL 📺', url="https://t.me/MallusHubb"
                                 )
                         ]
                     ]
@@ -89,12 +89,11 @@ async def start(bot, update):
         return
 
     buttons = [[
-        InlineKeyboardButton('Developers', url='https://t.me/MallusHubb'),
-        InlineKeyboardButton('Source Code 🧾', url ='https://youtube.com/c/LOStWorldBGM')
+        InlineKeyboardButton('CHANNEL ❤️', url='https://t.me/MallusHubb'),
     ],[
-        InlineKeyboardButton('Support 🛠', url='https://t.me/malluhubbmovies')
+        InlineKeyboardButton('GROUP 🤍', url='https://t.me/malluhubbmovies')
     ],[
-        InlineKeyboardButton('Help ⚙', callback_data="help")
+        InlineKeyboardButton('Help 🤔', callback_data="help")
     ]]
     
     reply_markup = InlineKeyboardMarkup(buttons)
