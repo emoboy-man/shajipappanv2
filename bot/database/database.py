@@ -476,7 +476,8 @@ class Database:
         if file:
             file_id = file.get("file_id")
             file_name = file.get("file_name")
-            file_type = file.get("file_type"
+            file_type = file.get("file_type")
+
             file_caption = file.get("file_caption")
         return file_id, file_name, file_caption, file_type
 
