@@ -1,4 +1,4 @@
-import os
+import ose
 import motor.motor_asyncio # pylint: disable=import-error
 from bot import DB_URI
 
@@ -477,8 +477,7 @@ class Database:
             file_id = file.get("file_id")
             file_name = file.get("file_name")
             file_type = file.get("file_type")
-
-            file_caption = file.get("file_caption")
+            file_caption = file.get("file_caption"
         return file_id, file_name, file_caption, file_type
 
 
@@ -495,5 +494,3 @@ class Database:
         A Funtion to count total filters of a group
         """
         return await self.fcol.count_documents({"group_id": group_id})
-
-
